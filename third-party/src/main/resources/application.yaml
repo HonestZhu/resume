@@ -1,0 +1,15 @@
+server:
+  port: 30000
+
+spring:
+  application:
+    name: third-party
+
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB
+
+ecloud:
+  user_ak: 83cb9978d42d4156b4b24e7454291957
+  user_sk: c44fc03c07654ab6bcf65c1afa0f5b3d
