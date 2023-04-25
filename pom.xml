@@ -13,5 +13,6 @@
 
     <modules>
         <module>third-party</module>
+        <module>auth</module>
     </modules>
 </project>
